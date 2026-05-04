@@ -1,0 +1,12 @@
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Logs
+*.log
+*.tmp
+
+# Build artifacts
+build/
+dist/
